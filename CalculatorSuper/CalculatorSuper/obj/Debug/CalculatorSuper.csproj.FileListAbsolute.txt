@@ -1,0 +1,10 @@
+E:\NT106\CalculatorSuper\CalculatorSuper\bin\Debug\CalculatorSuper.exe.config
+E:\NT106\CalculatorSuper\CalculatorSuper\bin\Debug\CalculatorSuper.exe
+E:\NT106\CalculatorSuper\CalculatorSuper\bin\Debug\CalculatorSuper.pdb
+E:\NT106\CalculatorSuper\CalculatorSuper\obj\Debug\CalculatorSuper.csproj.AssemblyReference.cache
+E:\NT106\CalculatorSuper\CalculatorSuper\obj\Debug\CalculatorSuper.Form1.resources
+E:\NT106\CalculatorSuper\CalculatorSuper\obj\Debug\CalculatorSuper.Properties.Resources.resources
+E:\NT106\CalculatorSuper\CalculatorSuper\obj\Debug\CalculatorSuper.csproj.GenerateResource.cache
+E:\NT106\CalculatorSuper\CalculatorSuper\obj\Debug\CalculatorSuper.csproj.CoreCompileInputs.cache
+E:\NT106\CalculatorSuper\CalculatorSuper\obj\Debug\CalculatorSuper.exe
+E:\NT106\CalculatorSuper\CalculatorSuper\obj\Debug\CalculatorSuper.pdb
